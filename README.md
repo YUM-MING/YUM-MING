@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-3578E5.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c-sharp-1daabb.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/csharp-1daabb.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
@@ -42,8 +42,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbspp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbsp
 </div>
 
 <br>
@@ -54,7 +54,6 @@
     <img src="https://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:youmin0321@naver.com">
-    <img
-      src="https://img.shields.io/badge/youmin0321@naver.com-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/youmin0321@naver.com-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
