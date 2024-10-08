@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/mac-OS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
 
 </div>
