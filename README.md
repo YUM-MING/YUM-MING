@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-3578E5.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c#-1daabb.svg?style=for-the-badge&logo=C#&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
@@ -36,9 +37,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/google%20colab-FF4154?style=for-the-badge&logo=rgoogle%20colab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/google%20colab-FF4154?style=for-the-badge&logo=google%20colab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/pycharm.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbspp
 </div>
 
 <br>
