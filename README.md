@@ -9,14 +9,20 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-3578E5.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/csharp-1daabb.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c#-1daabb.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/mysql-11557c.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/mysql-11557c.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+
 </div>
 
 <br>
