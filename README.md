@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-11557c.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/mysql-11557c.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -28,8 +28,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/chatbot-007ACC.svg?style=for-the-badge&logo=chatbot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/unity-2C2C32.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unity-2C2C32.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
 
 <br>
