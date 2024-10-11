@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-![IMG_3390](https://github.com/user-attachments/assets/b98cc5cb-cae8-467f-8496-d765396bd00d)
+![IMG_3390](https://github.com/user-attachments/assets/7018bad1-c214-447d-ba60-b1c727a1e836)
+
 
 </div>
 
