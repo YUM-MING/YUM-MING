@@ -1,6 +1,8 @@
 <!--타이틀 부분-->
+![IMG_3390](https://github.com/user-attachments/assets/7018bad1-c214-447d-ba60-b1c727a1e836)
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7018bad1-c214-447d-ba60-b1c727a1e836" />
+  <img src="https://github.com/user-attachments/assets/7018bad1-c214-447d-ba60-b1c727a1e836/IMG_3990.gif" />
 </div>
 
 <!--내용 부분-->
@@ -62,3 +64,4 @@
     <img src="https://img.shields.io/badge/youmin0321@naver.com-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
+
