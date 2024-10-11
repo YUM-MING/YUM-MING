@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/YUM-MING/YUM-MING/asset/IMG_3390.GIF" />
+  <img src="https://github.com/user-attachments/assets/2cac5cd9-5d36-4330-8105-0ee397cd2750" />
 
 </div>
 
