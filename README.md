@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/google%20colab-FF4154?style=for-the-badge&logo=google%20colab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -55,11 +55,14 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://yu-ming.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+  <a href="https://www.instagram.com/xeuvoxo">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:youmin0321@naver.com">
-    <img src="https://img.shields.io/badge/youmin0321@naver.com-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/youmin0321@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://yu-ming.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
   </a>
 </div>
 
