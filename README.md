@@ -1,6 +1,5 @@
 <!--타이틀 부분-->
-![IMG_3390](https://github.com/user-attachments/assets/7018bad1-c214-447d-ba60-b1c727a1e836)
-
+![IMG_3390](https://github.com/user-attachments/assets/60a8c2ee-d644-48c4-be51-97e3fc567968)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
