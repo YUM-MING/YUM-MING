@@ -71,7 +71,6 @@
 
 <br> 
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUM-MING)](https://github.com/anuraghazra/github-readme-stats)
 [![YUM-MING's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUM-MING)](https://github.com/anuraghazra/github-readme-stats)
-</div>
